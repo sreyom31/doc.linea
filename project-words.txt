@@ -450,6 +450,8 @@ merkleroot
 Metabridge
 metadatum
 MetalSwap
+Mintair
+mintair
 metamaskwallet
 metastring
 metaverse
